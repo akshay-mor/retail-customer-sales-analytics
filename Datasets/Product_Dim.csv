@@ -1,0 +1,181 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice
+1,Mobile Model 1,Electronics,Mobile,Brand C,1160,5890
+2,Mobile Model 2,Electronics,Mobile,Brand C,4072,3592
+3,Mobile Model 3,Electronics,Mobile,Brand D,766,5834
+4,Mobile Model 4,Electronics,Mobile,Brand B,4726,6078
+5,Mobile Model 5,Electronics,Mobile,Brand C,3744,3671
+6,Mobile Model 6,Electronics,Mobile,Brand A,3219,630
+7,Mobile Model 7,Electronics,Mobile,Brand B,1985,7976
+8,Mobile Model 8,Electronics,Mobile,Brand A,1069,2891
+9,Mobile Model 9,Electronics,Mobile,Brand A,2733,5811
+10,Mobile Model 10,Electronics,Mobile,Brand A,1484,5055
+11,Mobile Model 11,Electronics,Mobile,Brand A,3685,4617
+12,Mobile Model 12,Electronics,Mobile,Brand B,3204,974
+13,Mobile Model 13,Electronics,Mobile,Brand B,1382,3058
+14,Mobile Model 14,Electronics,Mobile,Brand A,2347,3247
+15,Mobile Model 15,Electronics,Mobile,Brand A,1275,2306
+16,Mobile Model 16,Electronics,Mobile,Brand C,489,7601
+17,Mobile Model 17,Electronics,Mobile,Brand C,3034,3505
+18,Mobile Model 18,Electronics,Mobile,Brand B,4958,2399
+19,Mobile Model 19,Electronics,Mobile,Brand D,1567,7475
+20,Mobile Model 20,Electronics,Mobile,Brand B,1828,3702
+21,Laptop Model 1,Electronics,Laptop,Brand B,3856,4390
+22,Laptop Model 2,Electronics,Laptop,Brand C,946,6664
+23,Laptop Model 3,Electronics,Laptop,Brand D,3188,6810
+24,Laptop Model 4,Electronics,Laptop,Brand D,2735,1100
+25,Laptop Model 5,Electronics,Laptop,Brand B,2663,2561
+26,Laptop Model 6,Electronics,Laptop,Brand D,541,2541
+27,Laptop Model 7,Electronics,Laptop,Brand A,3124,3112
+28,Laptop Model 8,Electronics,Laptop,Brand C,1663,6735
+29,Laptop Model 9,Electronics,Laptop,Brand B,1778,3056
+30,Laptop Model 10,Electronics,Laptop,Brand B,1075,4514
+31,Laptop Model 11,Electronics,Laptop,Brand B,334,6849
+32,Laptop Model 12,Electronics,Laptop,Brand B,3452,2455
+33,Laptop Model 13,Electronics,Laptop,Brand C,1885,4443
+34,Laptop Model 14,Electronics,Laptop,Brand B,3373,1521
+35,Laptop Model 15,Electronics,Laptop,Brand B,3761,3113
+36,Laptop Model 16,Electronics,Laptop,Brand B,4143,2000
+37,Laptop Model 17,Electronics,Laptop,Brand A,461,4797
+38,Laptop Model 18,Electronics,Laptop,Brand A,2281,1495
+39,Laptop Model 19,Electronics,Laptop,Brand D,3642,5051
+40,Laptop Model 20,Electronics,Laptop,Brand B,4098,1775
+41,Headphones Model 1,Electronics,Headphones,Brand C,1316,6939
+42,Headphones Model 2,Electronics,Headphones,Brand D,637,1378
+43,Headphones Model 3,Electronics,Headphones,Brand B,1376,5387
+44,Headphones Model 4,Electronics,Headphones,Brand A,4293,6860
+45,Headphones Model 5,Electronics,Headphones,Brand D,679,992
+46,Headphones Model 6,Electronics,Headphones,Brand A,2362,4384
+47,Headphones Model 7,Electronics,Headphones,Brand B,364,3068
+48,Headphones Model 8,Electronics,Headphones,Brand A,2327,3195
+49,Headphones Model 9,Electronics,Headphones,Brand D,1795,7730
+50,Headphones Model 10,Electronics,Headphones,Brand A,691,6294
+51,Headphones Model 11,Electronics,Headphones,Brand C,4814,6932
+52,Headphones Model 12,Electronics,Headphones,Brand B,4774,6392
+53,Headphones Model 13,Electronics,Headphones,Brand D,3861,2778
+54,Headphones Model 14,Electronics,Headphones,Brand A,3399,6778
+55,Headphones Model 15,Electronics,Headphones,Brand D,500,6459
+56,Headphones Model 16,Electronics,Headphones,Brand C,3404,7715
+57,Headphones Model 17,Electronics,Headphones,Brand C,4898,2954
+58,Headphones Model 18,Electronics,Headphones,Brand A,3945,6347
+59,Headphones Model 19,Electronics,Headphones,Brand A,1104,6742
+60,Headphones Model 20,Electronics,Headphones,Brand A,3031,6491
+61,Shirt Model 1,Apparel,Shirt,Brand D,3073,2070
+62,Shirt Model 2,Apparel,Shirt,Brand A,2990,4340
+63,Shirt Model 3,Apparel,Shirt,Brand D,1328,7885
+64,Shirt Model 4,Apparel,Shirt,Brand A,802,7410
+65,Shirt Model 5,Apparel,Shirt,Brand D,4793,1370
+66,Shirt Model 6,Apparel,Shirt,Brand D,4788,706
+67,Shirt Model 7,Apparel,Shirt,Brand C,1784,1363
+68,Shirt Model 8,Apparel,Shirt,Brand B,3090,7908
+69,Shirt Model 9,Apparel,Shirt,Brand B,863,5616
+70,Shirt Model 10,Apparel,Shirt,Brand A,4491,6519
+71,Shirt Model 11,Apparel,Shirt,Brand C,2057,7128
+72,Shirt Model 12,Apparel,Shirt,Brand A,1978,3742
+73,Shirt Model 13,Apparel,Shirt,Brand B,4936,1559
+74,Shirt Model 14,Apparel,Shirt,Brand B,2022,3814
+75,Shirt Model 15,Apparel,Shirt,Brand A,3457,6415
+76,Shirt Model 16,Apparel,Shirt,Brand C,2925,3229
+77,Shirt Model 17,Apparel,Shirt,Brand C,1897,3560
+78,Shirt Model 18,Apparel,Shirt,Brand D,2993,5391
+79,Shirt Model 19,Apparel,Shirt,Brand A,3927,1863
+80,Shirt Model 20,Apparel,Shirt,Brand C,2281,5950
+81,Jeans Model 1,Apparel,Jeans,Brand C,1963,2029
+82,Jeans Model 2,Apparel,Jeans,Brand C,2338,6092
+83,Jeans Model 3,Apparel,Jeans,Brand D,3602,2737
+84,Jeans Model 4,Apparel,Jeans,Brand D,1606,4529
+85,Jeans Model 5,Apparel,Jeans,Brand C,2975,5568
+86,Jeans Model 6,Apparel,Jeans,Brand B,1582,1209
+87,Jeans Model 7,Apparel,Jeans,Brand C,4713,4248
+88,Jeans Model 8,Apparel,Jeans,Brand D,963,2498
+89,Jeans Model 9,Apparel,Jeans,Brand B,3745,4243
+90,Jeans Model 10,Apparel,Jeans,Brand A,1795,3804
+91,Jeans Model 11,Apparel,Jeans,Brand A,4063,5732
+92,Jeans Model 12,Apparel,Jeans,Brand C,2153,6116
+93,Jeans Model 13,Apparel,Jeans,Brand D,4959,1791
+94,Jeans Model 14,Apparel,Jeans,Brand B,3881,3957
+95,Jeans Model 15,Apparel,Jeans,Brand D,1936,4196
+96,Jeans Model 16,Apparel,Jeans,Brand A,3299,3652
+97,Jeans Model 17,Apparel,Jeans,Brand C,998,2660
+98,Jeans Model 18,Apparel,Jeans,Brand D,4397,5237
+99,Jeans Model 19,Apparel,Jeans,Brand D,1154,6355
+100,Jeans Model 20,Apparel,Jeans,Brand B,3774,6257
+101,Jacket Model 1,Apparel,Jacket,Brand D,2007,3277
+102,Jacket Model 2,Apparel,Jacket,Brand D,2033,6035
+103,Jacket Model 3,Apparel,Jacket,Brand D,3810,702
+104,Jacket Model 4,Apparel,Jacket,Brand D,3555,4718
+105,Jacket Model 5,Apparel,Jacket,Brand B,4796,1266
+106,Jacket Model 6,Apparel,Jacket,Brand B,4689,2827
+107,Jacket Model 7,Apparel,Jacket,Brand D,3231,697
+108,Jacket Model 8,Apparel,Jacket,Brand D,2230,4082
+109,Jacket Model 9,Apparel,Jacket,Brand A,908,3772
+110,Jacket Model 10,Apparel,Jacket,Brand A,1447,4782
+111,Jacket Model 11,Apparel,Jacket,Brand A,3697,3011
+112,Jacket Model 12,Apparel,Jacket,Brand D,2094,1159
+113,Jacket Model 13,Apparel,Jacket,Brand B,3111,7598
+114,Jacket Model 14,Apparel,Jacket,Brand C,1669,2486
+115,Jacket Model 15,Apparel,Jacket,Brand A,446,3719
+116,Jacket Model 16,Apparel,Jacket,Brand A,3211,2234
+117,Jacket Model 17,Apparel,Jacket,Brand D,2143,988
+118,Jacket Model 18,Apparel,Jacket,Brand D,3276,2459
+119,Jacket Model 19,Apparel,Jacket,Brand C,2685,3419
+120,Jacket Model 20,Apparel,Jacket,Brand B,2102,7116
+121,Mixer Model 1,Home,Mixer,Brand B,4361,3869
+122,Mixer Model 2,Home,Mixer,Brand B,562,6383
+123,Mixer Model 3,Home,Mixer,Brand D,923,1516
+124,Mixer Model 4,Home,Mixer,Brand D,3943,5476
+125,Mixer Model 5,Home,Mixer,Brand D,2349,7540
+126,Mixer Model 6,Home,Mixer,Brand D,4023,5048
+127,Mixer Model 7,Home,Mixer,Brand A,3408,5779
+128,Mixer Model 8,Home,Mixer,Brand D,4390,7658
+129,Mixer Model 9,Home,Mixer,Brand D,2356,7900
+130,Mixer Model 10,Home,Mixer,Brand B,3470,2182
+131,Mixer Model 11,Home,Mixer,Brand B,2555,1654
+132,Mixer Model 12,Home,Mixer,Brand D,4799,6795
+133,Mixer Model 13,Home,Mixer,Brand A,3491,2196
+134,Mixer Model 14,Home,Mixer,Brand A,4291,5223
+135,Mixer Model 15,Home,Mixer,Brand C,4982,2148
+136,Mixer Model 16,Home,Mixer,Brand C,1745,4699
+137,Mixer Model 17,Home,Mixer,Brand C,4223,753
+138,Mixer Model 18,Home,Mixer,Brand B,3483,3057
+139,Mixer Model 19,Home,Mixer,Brand A,398,2700
+140,Mixer Model 20,Home,Mixer,Brand B,3261,6515
+141,Vacuum Cleaner Model 1,Home,Vacuum Cleaner,Brand C,4733,4277
+142,Vacuum Cleaner Model 2,Home,Vacuum Cleaner,Brand A,3169,3734
+143,Vacuum Cleaner Model 3,Home,Vacuum Cleaner,Brand A,4091,1456
+144,Vacuum Cleaner Model 4,Home,Vacuum Cleaner,Brand D,4367,660
+145,Vacuum Cleaner Model 5,Home,Vacuum Cleaner,Brand C,4793,1800
+146,Vacuum Cleaner Model 6,Home,Vacuum Cleaner,Brand B,4287,2027
+147,Vacuum Cleaner Model 7,Home,Vacuum Cleaner,Brand B,1518,4996
+148,Vacuum Cleaner Model 8,Home,Vacuum Cleaner,Brand D,3404,3235
+149,Vacuum Cleaner Model 9,Home,Vacuum Cleaner,Brand D,4855,1454
+150,Vacuum Cleaner Model 10,Home,Vacuum Cleaner,Brand B,4865,3946
+151,Vacuum Cleaner Model 11,Home,Vacuum Cleaner,Brand C,1345,7393
+152,Vacuum Cleaner Model 12,Home,Vacuum Cleaner,Brand B,1993,6681
+153,Vacuum Cleaner Model 13,Home,Vacuum Cleaner,Brand C,3736,1062
+154,Vacuum Cleaner Model 14,Home,Vacuum Cleaner,Brand C,2785,6395
+155,Vacuum Cleaner Model 15,Home,Vacuum Cleaner,Brand B,3654,6670
+156,Vacuum Cleaner Model 16,Home,Vacuum Cleaner,Brand B,525,7944
+157,Vacuum Cleaner Model 17,Home,Vacuum Cleaner,Brand B,1259,6100
+158,Vacuum Cleaner Model 18,Home,Vacuum Cleaner,Brand A,4848,3567
+159,Vacuum Cleaner Model 19,Home,Vacuum Cleaner,Brand A,1115,5254
+160,Vacuum Cleaner Model 20,Home,Vacuum Cleaner,Brand B,4942,5811
+161,Lamp Model 1,Home,Lamp,Brand B,3420,516
+162,Lamp Model 2,Home,Lamp,Brand A,1543,2705
+163,Lamp Model 3,Home,Lamp,Brand B,2824,1569
+164,Lamp Model 4,Home,Lamp,Brand B,3744,3065
+165,Lamp Model 5,Home,Lamp,Brand B,1360,2827
+166,Lamp Model 6,Home,Lamp,Brand D,3720,7140
+167,Lamp Model 7,Home,Lamp,Brand A,601,4776
+168,Lamp Model 8,Home,Lamp,Brand D,906,3670
+169,Lamp Model 9,Home,Lamp,Brand B,999,5588
+170,Lamp Model 10,Home,Lamp,Brand D,1439,690
+171,Lamp Model 11,Home,Lamp,Brand C,2600,1480
+172,Lamp Model 12,Home,Lamp,Brand C,3275,6602
+173,Lamp Model 13,Home,Lamp,Brand B,1484,3827
+174,Lamp Model 14,Home,Lamp,Brand B,3694,627
+175,Lamp Model 15,Home,Lamp,Brand C,2365,2316
+176,Lamp Model 16,Home,Lamp,Brand C,869,5942
+177,Lamp Model 17,Home,Lamp,Brand A,2195,3233
+178,Lamp Model 18,Home,Lamp,Brand A,4163,5221
+179,Lamp Model 19,Home,Lamp,Brand B,4314,3401
+180,Lamp Model 20,Home,Lamp,Brand D,1986,3509
