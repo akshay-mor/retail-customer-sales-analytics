@@ -8,7 +8,7 @@ The solution combines SQL-based data preparation and ETL exercises with a multi-
 
 Watch the complete project walkthrough to explore the dashboard, its interactive features, sales insights, customer analysis and visualizations.
 
-▶️ [Watch the Retail, Customer and Sales Analytics Dashboard Demo on YouTube] Link: https://www.youtube.com/watch?v=J050LDI8jAk
+▶️ [Watch the Retail, Customer and Sales Analytics Dashboard Demo on YouTube](https://www.youtube.com/watch?v=J050LDI8jAk)
 
 ## Project objectives
 
