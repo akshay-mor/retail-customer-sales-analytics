@@ -4,6 +4,12 @@ An interactive retail business intelligence project built with Power BI and MySQ
 
 The solution combines SQL-based data preparation and ETL exercises with a multi-page Power BI report containing executive KPIs, geographic analysis, product analysis, inventory monitoring, customer insights, bookmarks, and a custom tooltip page.
 
+## 🎥 Project Demo (Video Walkthrough)
+
+Watch the complete project walkthrough to explore the dashboard, its interactive features, sales insights, customer analysis and visualizations.
+
+▶️ [Watch the Retail, Customer and Sales Analytics Dashboard Demo on YouTube] Link: https://www.youtube.com/watch?v=J050LDI8jAk
+
 ## Project objectives
 
 - Monitor retail sales, quantity and profit.
